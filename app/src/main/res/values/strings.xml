@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">getAppInfoToNet</string>
+    <array name="choice">
+        <item>启动程序</item>
+        <item>详细信息</item>
+    </array>
+</resources>
